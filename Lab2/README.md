@@ -30,7 +30,8 @@
 
 ### Скриншот интерфейса
 
-![image](https://github.com/user-attachments/assets/6b7e0d8c-58da-44be-bf01-559cdce58703)
+![image](https://github.com/user-attachments/assets/4ff0ce65-4fd8-43f5-ab5b-6a47a787b1e5)
+
 
 
 ## Методы обработки изображений
