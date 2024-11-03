@@ -1,4 +1,4 @@
-# Отчет по лабораторной работе: Цветовые модели и их применение
+# Цветовые модели и их применение
 
 ## Введение
 
@@ -47,53 +47,10 @@
 
 После реализации функционала было проведено тестирование приложения. Все изменения в одной из моделей корректно отражались в остальных. В ходе тестирования были исправлены небольшие ошибки и оптимизирован код.
 
-## Пример кода
+### Скриншот интерфейса
 
-```cpp
-#include "widget.h"
-#include <QRegularExpression>
+![image](https://github.com/user-attachments/assets/99a53c48-53c0-4d54-960f-e5d60519da1f)
 
-// Конструктор виджета
-Widget::Widget(QWidget *parent) : QWidget(parent) {
-    // Инициализация компонентов
-    RGB_Grad->installEventFilter(this);
-    CreatingModels();
-    DarkTheme();
-    // Установка максимальных и минимальных значений для слайдеров
-    sliderR->setMaximum(255);
-    sliderR->setMinimum(0);
-    sliderG->setMaximum(255);
-    sliderG->setMinimum(0);
-    sliderB->setMaximum(255);
-    sliderB->setMinimum(0);
-    
-    // Конфигурация компоновки
-    chosenColorl = new QVBoxLayout;
-    RightL = new QHBoxLayout;
-    zone3 = new QGridLayout;
-    zone2 = new QGridLayout;
-    zone1 = new QGridLayout;
-    labels_ = new QHBoxLayout;
-
-    // Настройка интерфейса
-    // ...
-}
-
-// Метод для создания цветовых моделей
-void Widget::CreatingModels() {
-    // Создание и настройка моделей RGB, CMYK, HLS
-    // ...
-}
-
-// Метод для обработки событий рисования
-void Widget::paintEvent(QPaintEvent*) {
-    // Рисование градиента цвета
-    // ...
-}
-
-// Другие методы для работы с цветами
-// ...
-```
 
 ## Заключение
 
