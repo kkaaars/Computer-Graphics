@@ -1,0 +1,8 @@
+D:/Progs/Qt/QtProjects/Lab1/build/Desktop_x86_windows_msvc2022_pe_64bit-Release/CMakeFiles/Colors.dir
+D:/Progs/Qt/QtProjects/Lab1/build/Desktop_x86_windows_msvc2022_pe_64bit-Release/CMakeFiles/edit_cache.dir
+D:/Progs/Qt/QtProjects/Lab1/build/Desktop_x86_windows_msvc2022_pe_64bit-Release/CMakeFiles/rebuild_cache.dir
+D:/Progs/Qt/QtProjects/Lab1/build/Desktop_x86_windows_msvc2022_pe_64bit-Release/CMakeFiles/list_install_components.dir
+D:/Progs/Qt/QtProjects/Lab1/build/Desktop_x86_windows_msvc2022_pe_64bit-Release/CMakeFiles/install.dir
+D:/Progs/Qt/QtProjects/Lab1/build/Desktop_x86_windows_msvc2022_pe_64bit-Release/CMakeFiles/install/local.dir
+D:/Progs/Qt/QtProjects/Lab1/build/Desktop_x86_windows_msvc2022_pe_64bit-Release/CMakeFiles/Colors_autogen_timestamp_deps.dir
+D:/Progs/Qt/QtProjects/Lab1/build/Desktop_x86_windows_msvc2022_pe_64bit-Release/CMakeFiles/Colors_autogen.dir
